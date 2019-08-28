@@ -3,6 +3,7 @@
 * [系统介绍](README.md)
 * [登录系统](wen-dang-shuo-ming.md)
 * [控制面板](kong-zhi-mian-ban.md)
+* [数据分析](shu-ju-fen-xi.md)
 * [产品管理](chan-pin-guan-li/README.md)
   * [4.1 产品列表](chan-pin-guan-li/2.1-chan-pin-lie-biao.md)
   * [4.2 分类](chan-pin-guan-li/4.2-xin-jian-chan-pin.md)
